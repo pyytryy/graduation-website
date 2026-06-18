@@ -19,7 +19,7 @@ export default function Home() {
     {
       title: "Plot Twist",
       text: "Ditambah mengejar asisten yang gamau dikejar sampai berujung asisten tersebut kabur dan jatuh ke selokan. Tapi menyenangkan sekali dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak",
-      images: ["/journey/momen.jpg", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg" ]
+      images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg" ]
     },
     {
       text: "Berkesan"
@@ -52,7 +52,7 @@ export default function Home() {
     {
       title: "Akhir Perjalanan",
       text: "Hingga sampai di tahap ini, aku benar-benar bersyukur dikelilingi oleh orang-orang baik seperti kalian, kebaikan yang tak mungkin bisa disebutkan satu-satu. Terima kasih aku ucapin kepada kalian yang sudah selalu memberikan dukungan dari bantuan yang selalu kalian usahakan untuk diberikan. Melalui bantuan hangat dari orang yang berbeda namun tetap saling mengasihi satu sama lain. ",
-      images: ["/journey/prak2.jpg", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
+         images: ["/journey/prak2.JPG", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
     }
   ];
 
@@ -78,7 +78,7 @@ export default function Home() {
     people: [
       {
         name: "Melati",
-        image: "/mey.png",
+        image: "/mey.PNG",
       },
       {
         name: "Dhita",
@@ -90,7 +90,7 @@ export default function Home() {
       },
       {
         name: "Andine",
-        image: "/andin.jpg",
+        image: "/andin.JPG",
       },
       {
         name: "Rasni",
@@ -113,7 +113,7 @@ export default function Home() {
       },
       {
         name: "Imah",
-        image: "/Imah.jpeg",
+        image: "/imah.jpeg",
       },
       {
         name: "Amal",
