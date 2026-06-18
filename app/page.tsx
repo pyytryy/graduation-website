@@ -536,7 +536,7 @@ export default function Home() {
 
             <div className="mt-8 space-y-4 text-xl text-gray-700">
               <p>📍 Hotel Puri Senyiur</p>
-              <p>⏰ 08.30 WITA</p>
+              <p>⏰ Minggu, 21 Juni 2026. 08.30 WITA</p>
               <p> (kalo sebisa sebelum itu ya gais ngumpulnyaa, biar bisa foto ramean lengkap semua yaww)</p>
             </div>
           </div>
