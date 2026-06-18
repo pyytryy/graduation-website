@@ -9,7 +9,7 @@ export default function Home() {
     {
       title: "2022",
       text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka. Kita mempersiapkan dan juga bersama-sama melewati praktikum bareng.",
-      images: ["/journey/prist.jpg","/journey/DSCF2984.jpg", "/journey/papan.jpg", "/journey/IMG-20220820-WA0023.jpg"]
+      images: ["/journey/prist.jpg","/journey/DSCF2984.JPG", "/journey/papan.jpg", "/journey/IMG-20220820-WA0023.jpg"]
     },
     {
       title: "Praktikum",
