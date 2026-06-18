@@ -8,7 +8,7 @@ export default function Home() {
    const journey = [
     {
       title: "2022",
-      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka. Kita mempersiapkan dan juga bersama-sama melewati praktikum yang DUARR DUARR 🤧. Ada aja gebrakannya di setiap asisten",
+      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka-sangka. Mulai awal membangun SOLIDARITAS dengan mempersiapkan dan bersama-sama melewati praktikum yang DUARR DUARR 🤧. Ada aja gebrakannya di setiap asisten",
       images: ["/journey/DSCF2984.JPG", "/journey/prist.jpg", "/journey/papan.jpg", "/journey/IMG-20220820-WA0023.jpg"]
     },
     {
@@ -18,7 +18,7 @@ export default function Home() {
     },
     {
       title: "Plot Twist",
-      text: "Ditambah mengejar asisten yang gamau dikejar sampai berujung asisten tersebut kabur dan jatuh ke selokan👀. Tapi menyenangkan sekali dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀",
+      text: "Ditambah ngejar asisten yang gamau dikejar sampai asisten tersebut kabur dan jatuh ke selokan 👀 (ya maap). Tapi yaaa... asik sii dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀. Inget banget bawa jangkrik hilang kaki satu buat dijadiin bahan penelitian",
       images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg" ]
     },
     {
@@ -26,32 +26,32 @@ export default function Home() {
     },
     {
       title: "Perkuliahan",
-      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni sama Welly, kalo Aljabar belajarnya sama Meyta, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶. Ngerjain project Simbada. Kerjaannya tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor 🫨.",
+      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni ama Welly, kalo Aljabar belajarnya sama Meyta xixi, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶). Ngerjain project Simbada juga. Terus tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor 🫨.",
       images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg"]
     },
     {
       title: "Organisasi",
-      text: "Transisi masuk ke organisasi itu diawali dari DiesNat dan Mubes, disini aku sama Meta bener-bener dempet banget. Dibantuin terus sama Meyta pokoknya 😋 (sampai sekarang si...). Sambil jadi praktikan jadi anggota organisasi plus jadi Asisten Praktikum ga kalah memusingkan yak. Lucunya ga sedikit dari kita yang ngeluh gamau lanjut lagi di organisasi. Eh malah jadi BPH 🫩.",
+      text: "Transisi masuk ke organisasi itu diawali dari DiesNat dan Mubes, disini aku sama Meta bener-bener dempet banget, ini mematikan banget gais ga kalah chaosnya. Dibantuin terus sama Meyta pokoknya 😋 (sampai sekarang si...). Sambil jadi praktikan jadi anggota organisasi plus jadi Asisten Praktikum ga kalah memusingkan yak. Lucunya dari kita yang ngeluh gamau lanjut lagi di organisasi buat dua periode. Eh malah jadi BPH 🫩.",
       images: ["/journey/rieman.jpg", "/journey/mubes.jpg", "/journey/diesnat.jpg", "/journey/sembako.jpg"]
     },
     {
       title: "Daily Life",
-      text: "Banyak pusingnya, antara tugas, project, proker, asisten, sama jadi anggota organisasi sampai memusingkan anak-anak praktikum yang lebih membingungkan karena ada aja tingkah lakunya 😵.",
+      text: "Banyak pusingnya, antara tugas, project, proker, asisten, sama jadi anggota organisasi dan anak-anak praktikum yang memusingkan dan lebih membingungkan karena ada aja tingkah lakunya 😵.",
       images: ["/journey/prak1.jpg", "/journey/apala.jpg", "/journey/asisten.jpg", "/journey/awal.jpg"]
     },
     {
       title: "Banyak hal yang terjadi",
-      text: "Ga cukup sampai di sana. Banyak sekali momen yang rasanya sulit untuk dituliskan satu per satu. Belajar H-jam sebelum ujian. Bertanya ke sana-sini tentang materi yang bahkan tidak kami pahami pertanyaannya. ",
+      text: "Ga cukup sampai di sana. Banyak sekali momen yang rasanya sulit untuk dituliskan satu per satu. Belajar H-jam sebelum ujian. Bertanya ke sana-sini tentang materi yang bahkan tidak kami pahami pertanyaannya. Semoga kenangan indah tersimpan di penyimpanan masing-masing aja ya",
       images: [ "/journey/konversi.jpg", "/journey/sekre.jpg", "/journey/kemerdekaan.png", "/journey/comel.jpg"]
     },
     {
       title: "Tugas Akhir",
-      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua, tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat ngobrol aja.",
+      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua (lab terbaik), tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat ngobrol aja zii.",
       images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg", , "/journey/diess.jpg", "/journey/sem.jpeg"]
     },
     {
       title: "Akhir Perjalanan",
-      text: "Hingga sampai di tahap ini, aku benar-benar bersyukur dikelilingi oleh orang-orang baik seperti kalian, kebaikan yang tak mungkin bisa disebutkan satu-satu. Terima kasih aku ucapin kepada kalian yang sudah selalu memberikan dukungan dari bantuan yang selalu kalian usahakan untuk diberikan. Melalui bantuan hangat dari orang yang berbeda namun tetap saling mengasihi satu sama lain. ",
+      text: "Hingga sampai di tahap ini, aku benar-benar bersyukur dikelilingi oleh orang-orang baik seperti kalian, kebaikan yang tak mungkin bisa disebutkan satu-satu. Terima kasih aku ucapin kepada kalian yang sudah selalu memberikan dukungan dari bantuan yang selalu kalian usahakan untuk diberikan. Melalui bantuan hangat dari orang yang berbeda namun tetap saling mengasihi satu sama lain. Semoga Allah memberkahi kita selalu kebaikan dengan cintanya",
          images: ["/journey/prak2.JPG", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
     },
    {
@@ -536,7 +536,7 @@ export default function Home() {
 
             <div className="mt-8 space-y-4 text-xl text-gray-700">
               <p>📍 Hotel Puri Senyiur</p>
-              <p>⏰ 09.00 WITA</p>
+              <p>⏰ 08.45 WITA (kalo sebisa sebelum itu ya gais ngumpulnyaa, biar bisa foto ramean lengkap semuaaawww)</p>
             </div>
           </div>
 
@@ -550,7 +550,7 @@ export default function Home() {
             </p>
 
             <p className="mt-2 text-xl text-gray-700">
-              Dan sangat disarankan untuk mengenakan busana berwarna pink🌸
+              Dan sangat disarankan untuk mengenakan busana berwarna cream/putih/ivory/abu-abu terang🌸
             </p>
           </div>
 
