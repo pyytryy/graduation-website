@@ -127,6 +127,31 @@ export default function Home() {
     ],
   },
 ];
+
+   const [music, setMusic] = useState<HTMLAudioElement | null>(null);
+   const [isPlaying, setIsPlaying] = useState(false);
+   const toggleMusic = () => {
+    if (!music) {
+      const audio = new Audio("/tulus.mpeg");
+
+      audio.volume = 0.5;
+      audio.loop = true;
+
+      audio.play();
+
+      setMusic(audio);
+      setIsPlaying(true);
+    } else {
+      if (isPlaying) {
+        music.pause();
+        setIsPlaying(false);
+      } else {
+        music.play();
+        setIsPlaying(true);
+      }
+    }
+  };
+   
   const [name, setName] = useState("");
   const [response, setResponse] = useState("");
     const submitAttendance = async (status: string) => {
@@ -293,6 +318,31 @@ export default function Home() {
               >
                 The Invitation
               </button>
+               
+               <button
+                onMouseEnter={onMouseEnterFirst}
+                onClick={() => {
+                  playClick();
+                  toggleMusic();
+                }}
+                className="
+                  bg-[#D97093]/30
+                  text-white
+                  backdrop-blur-md
+                  border
+                  border-white/40
+                  px-6
+                  py-3
+                  rounded-full
+                  transition-all
+                  duration-300
+                  hover:scale-105
+                  hover:shadow-2xl
+                "
+              >
+                {isPlaying ? "Tunggu ya, agak loading^^" : "🎵 Play Music"}
+              </button>
+               
             </div>
           </motion.div>
         </div>
