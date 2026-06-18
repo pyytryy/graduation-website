@@ -8,26 +8,51 @@ export default function Home() {
    const journey = [
     {
       title: "2022",
-      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka.",
-      images: ["/journey/DSCF2984.jpg", "/journey/IMG_4428.jpg", "/journey/IMG-20220820-WA0023.jpg"]
-    },
-    {
-      title: "Semester Awal",
-      text: "Di sana ia menemukan banyak sekali rintangan pada semester awal.",
-      images: ["/placeholder.jpg"]
+      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka. Kita mempersiapkan dan juga bersama-sama melewati praktikum bareng.",
+      images: ["/journey/prist.jpg","/journey/DSCF2984.jpg", "/journey/papan.jpg", "/journey/IMG-20220820-WA0023.jpg"]
     },
     {
       title: "Praktikum",
-      text: "Laprak yang rasanya tak kunjung selesai.",
-      images: ["/placeholder.jpg"]
+      text: "Laprak yang rasanya tak kunjung selesai. Inget banget ka Riris bantuin aku buat lapres mematikan fisika (thank you so much kak). Disana aku belum cukup akrab dengan lainnya, karena bertahan hidup di semester 1 aja alhamdulillah.",
+      images: ["/journey/bio.jpg", "/journey/udang.jpeg", "/journey/with-ka-riris.jpg", "/journey/jaslab.jpg"]
     },
     {
       title: "Plot Twist",
-      text: `Ditambah mengejar asisten yang gamau dikejar hingga berujung asisten tersebut kabur dan jatuh ke selokan.`,
-      images: ["/placeholder.jpg"]
+      text: "Ditambah mengejar asisten yang gamau dikejar sampai berujung asisten tersebut kabur dan jatuh ke selokan. Tapi menyenangkan sekali dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak",
+      images: ["/journey/momen.jpg", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg" ]
     },
     {
       text: "Berkesan"
+    },
+    {
+      title: "Perkuliahan",
+      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni sama Welly, kalo Aljabar belajarnya sama Meyta, minta ajarin lagi kalo ga paham. Ngerjain project Simbada. Kerjaannya tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, dua duanya suka panikan, chaos banget. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor.",
+      images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg"]
+    },
+    {
+      title: "Organisasi",
+      text: "Transisi masuk ke organisasi itu diawali dari DiesNat dan Mubes, disini aku sama Meta bener-bener dempet banget. Dibantuin terus sama Meyta pokoknya. Sambil jadi praktikan jadi anggota organisasi plus jadi Asisten Praktikum ga kalah memusingkan yak. Lucunya ga sedikit dari kita yang ngeluh gamau lanjut lagi di organisasi. Eh malah jadi BPH.",
+      images: ["/journey/rieman.jpg", "/journey/mubes.jpg", "/journey/diesnat.jpg", "/journey/sembako.jpg"]
+    },
+    {
+      title: "Daily Life",
+      text: "Banyak pusingnya, antara tugas, project, proker, asisten, sama jadi anggota organisasi sampai memusingkan anak-anak praktikum yang lebih membingungkan karena ada aja tingkah lakunya.",
+      images: ["/journey/prak1.jpg", "/journey/apala.jpg", "/journey/asisten.jpg", "/journey/awal.jpg"]
+    },
+    {
+      title: "Banyak hal yang terjadi",
+      text: "Ga cukup sampai di sana. Banyak sekali momen yang rasanya sulit untuk dituliskan satu per satu. Belajar H-jam sebelum ujian. Bertanya ke sana-sini tentang materi yang bahkan tidak kami pahami pertanyaannya. ",
+      images: [ "/journey/konversi.jpg", "/journey/sekre.jpg", "/journey/kemerdekaan.png", "/journey/comel.jpg"]
+    },
+    {
+      title: "Tugas Akhir",
+      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua, tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat ngobrol aja. Disini ",
+      images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg", , "/journey/diess.jpg", "/journey/sem.jpeg"]
+    },
+    {
+      title: "Akhir Perjalanan",
+      text: "Hingga sampai di tahap ini, aku benar-benar bersyukur dikelilingi oleh orang-orang baik seperti kalian, kebaikan yang tak mungkin bisa disebutkan satu-satu. Terima kasih aku ucapin kepada kalian yang sudah selalu memberikan dukungan dari bantuan yang selalu kalian usahakan untuk diberikan. Melalui bantuan hangat dari orang yang berbeda namun tetap saling mengasihi satu sama lain. ",
+      images: ["/journey/prak2.jpg", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
     }
   ];
 
@@ -38,11 +63,11 @@ export default function Home() {
     people: [
       {
         name: "Papa",
-        image: "/people/family.jpg",
+        image: "/papah.png",
       },
       {
         name: "Mama",
-        image: "/people/family.jpg",
+        image: "/mom.png",
       }
     ],
   },
@@ -53,27 +78,27 @@ export default function Home() {
     people: [
       {
         name: "Melati",
-        image: "/people/melati.jpg",
+        image: "/mey.png",
       },
       {
         name: "Dhita",
-        image: "/people/dhita.jpg",
+        image: "/dhita.jpg",
       },
       {
         name: "Riska",
-        image: "/people/riska.jpg",
+        image: "/riris.jpg",
       },
       {
         name: "Andine",
-        image: "/people/andine.jpg",
+        image: "/andin.jpg",
       },
       {
         name: "Rasni",
-        image: "/people/rasni.jpg",
+        image: "/rasni.png",
       },
       {
         name: "Welly",
-        image: "/people/welly.jpg",
+        image: "/welly.jpg",
       },
     ],
   },
@@ -83,16 +108,16 @@ export default function Home() {
     description: "Before university happened.",
     people: [
       {
-        name: "Imah",
-        image: "/people/imah.jpg",
+        name: "Nopi",
+        image: "/nopi.png",
       },
       {
-        name: "Nopi",
-        image: "/people/nopi.jpg",
+        name: "Imah",
+        image: "/Imah.jpeg",
       },
       {
         name: "Amal",
-        image: "/people/amal.jpg",
+        image: "/amal.jpg",
       },
     ],
   },
@@ -280,7 +305,7 @@ export default function Home() {
           >
             How It All Started
           </motion.h2>
-            <div className="mt-16 space-y-24">
+            <div className="mt-30 space-y-30">
               {journey.map((item, index) => (
               <motion.div
                 key={index}
@@ -291,7 +316,7 @@ export default function Home() {
                   delay: index * 0.2,
                 }}
                 viewport={{ once: true }}
-                className="grid md:grid-cols-2 gap-20 items-center"
+                className="grid md:grid-cols-2 gap-40 items-center"
               >
                 {/* Kiri */}
                 <div>
@@ -305,24 +330,24 @@ export default function Home() {
                 </div>
 
                 {/* Kanan */}
-                <div className="relative h-[350px]">
+                <div className="grid grid-cols-2 gap-4">
                   {item.images?.map((image, imageIndex) => (
                     <img
                       key={imageIndex}
                       src={image}
                       alt={item.title}
                       className="
-                        absolute
-                        w-72
+                        w-full
+                        h-full
+                        object-cover
                         rounded-3xl
                         shadow-xl
                         border-4
                         border-white
-                        object-cover
                       "
                       style={{
                         top: `${imageIndex * 100}px`,
-                        left: `${imageIndex * 170}px`,
+                        left: `${imageIndex * 100}px`,
                         transform: `rotate(${
                           imageIndex % 2 === 0 ? "-8deg" : "8deg"
                         })`,
@@ -336,64 +361,6 @@ export default function Home() {
         </div>
       </section>
       
-      <section className="py-32 px-6">
-        <div className="max-w-5xl mx-auto">
-
-          <motion.h2
-            initial={{ opacity: 0 }}
-            whileInView={{ opacity: 1 }}
-            viewport={{ once: true }}
-            className="text-5xl font-bold text-[#8BAA88]"
-          >
-            Then Came The Best Part
-          </motion.h2>
-
-          <motion.div
-            initial={{ opacity: 0, y: 50 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1 }}
-            viewport={{ once: true }}
-            className="mt-16 space-y-10"
-          >
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Dari sana, ia mulai bertemu dengan banyak orang yang kemudian menjadi bagian penting dari perjalanan ini.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Kami melewati praktikum bersama, mengerjakan project bersama, hingga memasuki dunia organisasi yang ternyata tidak kalah memusingkan.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Lucunya, tidak sedikit dari kami yang sering berkata ingin menyerah. Namun beberapa waktu kemudian justru berakhir menjadi BPH.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700 italic">
-              Kebiasaan.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Ada masanya kami sibuk menggosipkan sistem organisasi yang tiba-tiba berubah, menjadi asisten praktikum, hingga memusingkan anak-anak praktikum yang kadang-kadang lebih membingungkan daripada soal praktikum itu sendiri.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Ada saja ceritanya.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Tidak cukup sampai di sana. Banyak sekali momen yang rasanya tidak mungkin dituliskan satu per satu.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Belajar H-jam sebelum ujian. Bertanya ke sana-sini tentang materi yang bahkan tidak kami pahami pertanyaannya. Menjadi pelanggan tetap ruang Matkom.
-            </p>
-
-            <p className="text-2xl leading-relaxed text-gray-700">
-              Dan entah bagaimana, tempat itu selalu menjadi basecamp yang kembali kami datangi.
-            </p>
-          </motion.div>
-
-        </div>
-      </section>
 
       <section className="py-40 px-6 text-center">
         <motion.div
