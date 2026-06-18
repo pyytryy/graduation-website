@@ -8,35 +8,35 @@ export default function Home() {
    const journey = [
     {
       title: "2022",
-      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka. Kita mempersiapkan dan juga bersama-sama melewati praktikum bareng.",
+      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka. Kita mempersiapkan dan juga bersama-sama melewati praktikum yang DUARR DUARR 🤧. Ada aja gebrakannya di setiap asisten",
       images: ["/journey/DSCF2984.JPG", "/journey/prist.jpg", "/journey/papan.jpg", "/journey/IMG-20220820-WA0023.jpg"]
     },
     {
       title: "Praktikum",
-      text: "Laprak yang rasanya tak kunjung selesai. Inget banget ka Riris bantuin aku buat lapres mematikan fisika (thank you so much kak). Disana aku belum cukup akrab dengan lainnya, karena bertahan hidup di semester 1 aja alhamdulillah.",
+      text: "Laprak yang rasanya tak kunjung selesai. Inget banget ka Riris bantuin aku buat lapres mematikan fisika (thank you so much kak😘). Disana aku belum cukup akrab dengan lainnya, karena bertahan hidup di semester 1 aja alhamdulillah 🫠.",
       images: ["/journey/bio.jpg", "/journey/udang.jpeg", "/journey/with-ka-riris.jpg", "/journey/jaslab.jpg"]
     },
     {
       title: "Plot Twist",
-      text: "Ditambah mengejar asisten yang gamau dikejar sampai berujung asisten tersebut kabur dan jatuh ke selokan. Tapi menyenangkan sekali dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak",
+      text: "Ditambah mengejar asisten yang gamau dikejar sampai berujung asisten tersebut kabur dan jatuh ke selokan👀. Tapi menyenangkan sekali dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀",
       images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg" ]
     },
     {
-      text: "Berkesan"
+      text: "Mungkin kata yang tepat adalah 'Berkesan'"
     },
     {
       title: "Perkuliahan",
-      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni sama Welly, kalo Aljabar belajarnya sama Meyta, minta ajarin lagi kalo ga paham. Ngerjain project Simbada. Kerjaannya tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, dua duanya suka panikan, chaos banget. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor.",
+      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni sama Welly, kalo Aljabar belajarnya sama Meyta, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶. Ngerjain project Simbada. Kerjaannya tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor 🫨.",
       images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg"]
     },
     {
       title: "Organisasi",
-      text: "Transisi masuk ke organisasi itu diawali dari DiesNat dan Mubes, disini aku sama Meta bener-bener dempet banget. Dibantuin terus sama Meyta pokoknya. Sambil jadi praktikan jadi anggota organisasi plus jadi Asisten Praktikum ga kalah memusingkan yak. Lucunya ga sedikit dari kita yang ngeluh gamau lanjut lagi di organisasi. Eh malah jadi BPH.",
+      text: "Transisi masuk ke organisasi itu diawali dari DiesNat dan Mubes, disini aku sama Meta bener-bener dempet banget. Dibantuin terus sama Meyta pokoknya 😋 (sampai sekarang si...). Sambil jadi praktikan jadi anggota organisasi plus jadi Asisten Praktikum ga kalah memusingkan yak. Lucunya ga sedikit dari kita yang ngeluh gamau lanjut lagi di organisasi. Eh malah jadi BPH 🫩.",
       images: ["/journey/rieman.jpg", "/journey/mubes.jpg", "/journey/diesnat.jpg", "/journey/sembako.jpg"]
     },
     {
       title: "Daily Life",
-      text: "Banyak pusingnya, antara tugas, project, proker, asisten, sama jadi anggota organisasi sampai memusingkan anak-anak praktikum yang lebih membingungkan karena ada aja tingkah lakunya.",
+      text: "Banyak pusingnya, antara tugas, project, proker, asisten, sama jadi anggota organisasi sampai memusingkan anak-anak praktikum yang lebih membingungkan karena ada aja tingkah lakunya 😵.",
       images: ["/journey/prak1.jpg", "/journey/apala.jpg", "/journey/asisten.jpg", "/journey/awal.jpg"]
     },
     {
@@ -46,12 +46,17 @@ export default function Home() {
     },
     {
       title: "Tugas Akhir",
-      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua, tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat ngobrol aja. Disini ",
+      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua, tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat ngobrol aja.",
       images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg", , "/journey/diess.jpg", "/journey/sem.jpeg"]
     },
     {
       title: "Akhir Perjalanan",
       text: "Hingga sampai di tahap ini, aku benar-benar bersyukur dikelilingi oleh orang-orang baik seperti kalian, kebaikan yang tak mungkin bisa disebutkan satu-satu. Terima kasih aku ucapin kepada kalian yang sudah selalu memberikan dukungan dari bantuan yang selalu kalian usahakan untuk diberikan. Melalui bantuan hangat dari orang yang berbeda namun tetap saling mengasihi satu sama lain. ",
+         images: ["/journey/prak2.JPG", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
+    },
+   {
+      title: "Sampai disini",
+      text: "Semoga kita dapat bertemu dilain waktu yang akan datang dengan setiap journey yang berbeda-beda🤩, I will always pray for u guys🫶",
          images: ["/journey/prak2.JPG", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
     }
   ];
