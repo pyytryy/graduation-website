@@ -8,50 +8,50 @@ export default function Home() {
    const journey = [
     {
       title: "2022",
-      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang tidak pernah disangka-sangka. Mulai awal membangun SOLIDARITAS dengan mempersiapkan dan bersama-sama melewati praktikum yang DUARR DUARR 🤧. Ada aja gebrakannya di setiap asisten",
+      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang ga pernah disangka-sangka sebagai seorang mahasiswa baru. Mulai awal membangun SOLIDARITAS, dengan langkah dari mempersiapkan praktikum dan bersama-sama melewati praktikum yang DUARR DUARR 🤧. Ada aja gebrakannya di setiap asisten",
       images: ["/journey/DSCF2984.JPG", "/journey/prist.jpg", "/journey/papan.jpg", "/journey/IMG-20220820-WA0023.jpg"]
     },
     {
       title: "Praktikum",
-      text: "Laprak yang rasanya tak kunjung selesai. Inget banget ka Riris bantuin aku buat lapres mematikan fisika (thank you so much kak😘). Disana aku belum cukup akrab dengan lainnya, karena bertahan hidup di semester 1 aja alhamdulillah 🫠.",
+      text: "Laprak yang rasanya tak kunjung selesai. Inget banget ka Riris bantuin aku minta ttd asisten buat lapres mematikan alias fisika (thank you so much kak😘). Disana kita belum akrab-akrab banget sama yang lainnya, karena... bertahan hidup di semester 1 aja udah alhamdulillah 🫠",
       images: ["/journey/bio.jpg", "/journey/udang.jpeg", "/journey/with-ka-riris.jpg", "/journey/jaslab.jpg"]
     },
     {
       title: "Plot Twist",
-      text: "Ditambah ngejar asisten yang gamau dikejar sampai asisten tersebut kabur dan jatuh ke selokan 👀 (ya maap). Tapi yaaa... asik sii dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀. Inget banget bawa jangkrik hilang kaki satu buat dijadiin bahan penelitian",
+      text: "Ditambah ngejar asisten yang gamau dikejar berujung asisten tersebut kabur dan jatuh ke selokan 👀 (ya maap). Tapi yaaa... asik sii dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀. Inget banget, ayu bawa jangkrik yang kakinya hilang satu buat dijadiin bahan praktikum, jujur kasian sama jangkriknya tapi kalo ga dipake ga bisa praktikum :)",
       images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg" ]
     },
     {
-      text: "Mungkin kata yang tepat adalah 'Berkesan'"
+      text: "Mungkin kata yang tepat adalah 'Berkesan namun gamau diulang'"
     },
     {
       title: "Perkuliahan",
-      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni ama Welly, kalo Aljabar belajarnya sama Meyta xixi, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶). Ngerjain project Simbada juga. Terus tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor 🫨.",
+      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni ama Welly, kalo Aljabar belajarnya sama Meyta xixi, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶). Ngerjain project Simbada juga. Terus tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, error mulukkk, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor 😋",
       images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg"]
     },
     {
       title: "Organisasi",
-      text: "Transisi masuk ke organisasi itu diawali dari DiesNat dan Mubes, disini aku sama Meta bener-bener dempet banget, ini mematikan banget gais ga kalah chaosnya. Dibantuin terus sama Meyta pokoknya 😋 (sampai sekarang si...). Sambil jadi praktikan jadi anggota organisasi plus jadi Asisten Praktikum ga kalah memusingkan yak. Lucunya dari kita yang ngeluh gamau lanjut lagi di organisasi buat dua periode. Eh malah jadi BPH 🫩.",
+      text: "Transisi masuk ke organisasi itu diawali dari DiesNat sama Mubes, disini aku sama Meyta bener-bener dempet banget, ini mematikan banget gais ga kalah chaosnya. Dibantuin terus sama Meyta pokoknya 😋 (sampai sekarang si...). Sambil jadi praktikan, anggota organisasi plus jadi Asisten Praktikum juga yang ga kalah memusingkan yak. Lucunya, yang suka ngeluh dan gamau lanjut lagi dua periode di organisasi buat eh malah jadi BPH 🫩",
       images: ["/journey/rieman.jpg", "/journey/mubes.jpg", "/journey/diesnat.jpg", "/journey/sembako.jpg"]
     },
     {
       title: "Daily Life",
-      text: "Banyak pusingnya, antara tugas, project, proker, asisten, sama jadi anggota organisasi dan anak-anak praktikum yang memusingkan dan lebih membingungkan karena ada aja tingkah lakunya 😵.",
+      text: "Lebih banyak pusingnya, membagi hidup antara tugas, project, proker, ngeasisten, sama jadi anggota organisasi dan praktikan yang justru memusingkan dan lebih membingungkan karena ada aja gebrakannya😵",
       images: ["/journey/prak1.jpg", "/journey/apala.jpg", "/journey/asisten.jpg", "/journey/awal.jpg"]
     },
     {
       title: "Banyak hal yang terjadi",
-      text: "Ga cukup sampai di sana. Banyak sekali momen yang rasanya sulit untuk dituliskan satu per satu. Belajar H-jam sebelum ujian. Bertanya ke sana-sini tentang materi yang bahkan tidak kami pahami pertanyaannya. Semoga kenangan indah tersimpan di penyimpanan masing-masing aja ya",
+      text: "Ga cukup sampai di sana. Banyak banget momen yang rasanya sulit untuk dituliskan satu per satu. Belajar H-jam sebelum ujian. Bertanya kesana kemari tentang materi yang bahkan sebenarnya kita masih nebak-nebak 'ini bakalan masuk ga ya di soal ujian?'. Semoga kenangan indah tersimpan di penyimpanan masing-masing aja ya",
       images: [ "/journey/konversi.jpg", "/journey/sekre.jpg", "/journey/kemerdekaan.png", "/journey/comel.jpg"]
     },
     {
       title: "Tugas Akhir",
-      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua (lab terbaik), tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat ngobrol aja zii.",
+      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua (lab terbaik), tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat menjalin tali silataruhmi",
       images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg", , "/journey/diess.jpg", "/journey/sem.jpeg"]
     },
     {
       title: "Akhir Perjalanan",
-      text: "Hingga sampai di tahap ini, aku benar-benar bersyukur dikelilingi oleh orang-orang baik seperti kalian, kebaikan yang tak mungkin bisa disebutkan satu-satu. Terima kasih aku ucapin kepada kalian yang sudah selalu memberikan dukungan dari bantuan yang selalu kalian usahakan untuk diberikan. Melalui bantuan hangat dari orang yang berbeda namun tetap saling mengasihi satu sama lain. Semoga Allah memberkahi kita selalu kebaikan dengan cintanya",
+      text: "Hingga sampai di tahap ini, aku benar-benar bersyukur dikelilingi oleh orang-orang baik seperti kalian, kebaikan yang tak mungkin bisa disebutkan satu-satu. Hanya doa dan terima kasih yang bisa aku ucapin kepada kalian yang sudah selalu memberikan dukungan dari bantuan yang selalu kalian usahakan untuk diberikan. Melalui bantuan hangat dari orang yang berbeda namun tetap saling mengasihi satu sama lain. Semoga Allah memberkahi kita selalu kebaikan dengan cintanya",
          images: ["/journey/prak2.JPG", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
     },
    {
@@ -179,7 +179,7 @@ export default function Home() {
       setName("");
 
     } catch (error) {
-      alert("Oops, something went wrong 😭");
+      alert("Oops, something went wrong");
     }
     };
 
@@ -218,13 +218,58 @@ export default function Home() {
     <main className="min-h-screen bg-[#F9E9EE] relative overflow-hidden">
     {/* bg overall, HERO*/}
 
-      <section className="relative min-h-screen flex items-center px-20">
+      <section className="
+         relative
+         min-h-screen
+         flex
+         items-center
+         px-6
+         md:px-20
+         "
+      >
         {/* Slide Pertama */}
-        <div className="absolute top-20 left-10 h-72 w-72 rounded-full bg-pink-300/30 blur-3xl" />
-        <div className="absolute bottom-10 left-140 h-72 w-72 rounded-full bg-green-300/30 blur-3xl z-30" />
-        <div className="w-1/2">
+        <div className="
+           absolute
+           top-20
+           left-10
+           h-72
+           w-72
+           rounded-full
+           bg-pink-300/30
+           blur-3xl
+           "
+         />
+        <div className="
+           absolute
+           bottom-10
+           left-140
+           h-72
+           w-72
+           rounded-full
+           bg-green-300/30
+           blur-3xl z-30
+           " 
+         />
+        <div className="
+            w-full
+            md:w-1/2
+      
+            flex
+            justify-center
+           "
+         >
           {/* Background Graduation Image */}
-          <div className="absolute top-0 right-0 h-full w-1/2">
+          <div className="
+             absolute
+             top-0
+             right-0
+             
+             h-full
+             w-full
+             
+             md:w-1/2
+             "
+         >
             <img
               src="/graduation.png"
               alt="Graduation"
@@ -253,71 +298,54 @@ export default function Home() {
             initial={{ opacity: 0, y: 40 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
-            className="backdrop-blur-xl bg-white/20 border border-white/100 rounded-[40px] shadow-2xl p-12"
+            className="
+             backdrop-blur-xl
+             bg-white/20
+             border
+             border-white/100
+             rounded-[40px]
+             shadow-2xl
+             
+             p-8
+             md:p-12
+             "
 
 >
-            <h1 className="text-6xl font-bold text-[#D97093]">
+            {/* Judul */}
+             <h1 className="
+                text-5xl
+                md:text-6xl
+                font-bold
+                text-[#D97093]
+                "
+               >
               Pita Gradu-ATE
             </h1>
 
-            <h2 className="text-6xl font-bold text-[#8BAA88]">
+            <h2 className="
+               text-5xl
+                md:text-6xl
+                font-bold
+               text-[#8BAA88]
+               "
+            >
               Era
             </h2>
 
-            <p className="mt-6 text-gray-700 text-lg max-w-md">
+            <p className="
+               mt-6
+               text-gray-700
+               text-lg
+               
+               max-w-full
+               md:max-w-md
+               "
+            >
               A small celebration for a big milestone.
             </p>
 
-            <div className="mt-8 flex gap-4">
-              <button
-                onMouseEnter={onMouseEnterFirst}
-                onClick={() => {
-                  playClick();
-                  document
-                    .getElementById("journey")
-                    ?.scrollIntoView({ behavior: "smooth" })
-                }}
-                className="bg-[#A8BEA4]
-                text-white
-                backdrop-blur-md
-                border 
-                border-white/100 
-                px-6
-                py-3
-                rounded-full
-                transition-all
-                duration-300
-                hover:scale-105
-                hover:shadow-2xl
-              "
-              >
-                Pita Journey
-              </button>
-
-              <button
-                onMouseEnter={onMouseEnterFirst}
-                onClick={() => {
-                  playClick();
-                  document
-                    .getElementById("photoshoot")
-                    ?.scrollIntoView({ behavior: "smooth" })
-                }}
-                className="bg-[#D97093]/30
-                text-white 
-                backdrop-blur-md 
-                border 
-                border-white/40 
-                px-6 
-                py-3 
-                rounded-full
-                transition-all
-                duration-300
-                hover:scale-105
-                hover:shadow-2xl
-                "
-              >
-                The Invitation
-              </button>
+            <div className="mt-8 flex justify-center">
+              
                
                <button
                 onMouseEnter={onMouseEnterFirst}
@@ -340,7 +368,7 @@ export default function Home() {
                   hover:shadow-2xl
                 "
               >
-                {isPlaying ? "Tunggu ya, agak loading^^" : "🎵 Play Music"}
+                {isPlaying ? "🔇 Stop Music" : "🎵 Play Music"}
               </button>
                
             </div>
