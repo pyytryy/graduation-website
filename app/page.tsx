@@ -185,20 +185,24 @@ export default function Home() {
 
   const playClick = () => {
       const audio = new Audio("/dragon-studio-pop-402324.mp3");
+      audio.volume = 0.4;
       audio.play();
     };
 
   const onMouseEnterFirst=()=> {
       const audio = new Audio("/dragon-studio-pop-402324.mp3");
-            audio.play();
+      audio.volume = 0.4;
+      audio.play();
     };
   const onMouseEnterNo = () => {
       const audio = new Audio("/studio-audience-awwww-sound-fx.mp3");
+      audio.volume = 0.4;
       audio.play();
     };
   
   const onMouseEnterYes= () => {
       const audio = new Audio("/shidenbeatsmusic-sound-effect-twinklesparkle-115095.mp3");
+      audio.volume = 0.4;
       audio.play();
     };
 
