@@ -57,7 +57,7 @@ export default function Home() {
    {
       title: "Sampai disini",
       text: "Semoga kita dapat bertemu dilain waktu yang akan datang dengan setiap journey yang berbeda-beda🤩, I will always pray for u guys🫶",
-         images: ["/journey/semhas.jpeg", "/journey/meditif.jpeg", "/journey/diess.jpg", "/journey/sekre.jpg", "/journey/sosmas.jpeg", "/journey/pertama.jpeg"]
+         images: ["/journey/semhas.jpeg", "/journey/meditif.jpeg", "/journey/diess.jpg", "/journey/sekre.jpeg", "/journey/sosmas.jpeg", "/journey/Pertama.jpeg"]
     }
   ];
 
