@@ -46,8 +46,8 @@ export default function Home() {
     },
     {
       title: "Tugas Akhir",
-      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua (lab terbaik), tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat menjalin tali silataruhmi ajah, kadang-kadang buat mukbang juga",
-      images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg","/journey/mukbang.jpeg" , "/journey/sem.jpeg"]
+      text: "Dimana tempat ternyaman buat ngerjain tugas akhir? Tentunya di our best camp yaitu Lab Matkom kecintaan kami semua (lab terbaik), tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat menjalin tali silataruhmi ajah, kadang-kadang buat mukbang juga",
+      images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg", "/journey/mukbang.jpeg" , "/journey/sem.jpeg"]
     },
     {
       title: "Akhir Perjalanan",
