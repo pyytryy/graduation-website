@@ -8,7 +8,7 @@ export default function Home() {
    const journey = [
     {
       title: "2022",
-      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang ga pernah disangka-sangka sebagai seorang mahasiswa baru. Mulai awal membangun SOLIDARITAS, dengan langkah dari mempersiapkan praktikum dan bersama-sama melewati praktikum yang DUARR DUARR 🤧. Ada aja gebrakannya di setiap asisten",
+      text: "Memasuki dunia FMIPA yang ternyata memiliki sisi yang ga pernah disangka-sangka sebagai seorang mahasiswa baru. Mulai awal membangun SOLIDARITAS, dimulai dari mempersiapkan kelengkapan praktikum dan bersama-sama melewati praktikum yang DUARR DUARR 🤧. Ada aja gebrakannya di setiap asisten",
       images: ["/journey/DSCF2984.JPG", "/journey/prist.jpg", "/journey/papan.jpg", "/journey/IMG-20220820-WA0023.jpg"]
     },
     {
@@ -18,25 +18,25 @@ export default function Home() {
     },
     {
       title: "Plot Twist",
-      text: "Ditambah ngejar asisten yang gamau dikejar berujung asisten tersebut kabur dan jatuh ke selokan 👀 (ya maap). Tapi yaaa... asik sii dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀. Inget banget, ayu bawa jangkrik yang kakinya hilang satu buat dijadiin bahan praktikum, jujur kasian sama jangkriknya tapi kalo ga dipake ga bisa praktikum :)",
-      images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg" ]
+      text: "Ditambah ngejar asisten yang gamau dikejar berujung asisten tersebut kabur dan jatuh ke selokan 👀 (ya maap) mau ke ujung dunia juga dikejar demi kata ACC itu. Tapi yaaa... asik sii dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀. Inget banget, Ayu bawa jangkrik yang kakinya hilang satu buat dijadiin bahan praktikum, penyelamat banget Ayu dengan jangkrik itu. Lama banget asisten ngeliatin jangkriknya wkwk",
+      images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg", "/journey/jangkrik.jpg", "/journey/kentang.jpg"]
     },
     {
       text: "Mungkin kata yang tepat adalah 'Berkesan namun gamau diulang'"
     },
     {
       title: "Perkuliahan",
-      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni ama Welly, kalo Aljabar belajarnya sama Meyta xixi, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶). Ngerjain project Simbada juga. Terus tengah malam telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, error mulukkk, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor 😋",
-      images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg"]
+      text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni ama Welly, kalo Aljabar belajarnya sama Meyta xixi, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶). Ngerjain project Simbada juga. Terus dini hari telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, error mulukkk, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor, sampe berhasil nerbitin jurnal ahay 😋",
+      images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg", "/journey/kimia.jpeg", "/journey/ACC.jpg"]
     },
     {
       title: "Organisasi",
-      text: "Transisi masuk ke organisasi itu diawali dari DiesNat sama Mubes, disini aku sama Meyta bener-bener dempet banget, ini mematikan banget gais ga kalah chaosnya. Dibantuin terus sama Meyta pokoknya 😋 (sampai sekarang si...). Sambil jadi praktikan, anggota organisasi plus jadi Asisten Praktikum juga yang ga kalah memusingkan yak. Lucunya, yang suka ngeluh dan gamau lanjut lagi dua periode di organisasi buat eh malah jadi BPH 🫩",
-      images: ["/journey/rieman.jpg", "/journey/mubes.jpg", "/journey/diesnat.jpg", "/journey/sembako.jpg"]
+      text: "Transisi masuk ke organisasi itu diawali dari DiesNat sama Mubes, disini aku sama Meyta bener-bener dempet banget, ini mematikan banget gais ga kalah chaosnya. Dibantuin terus sama Meyta pokoknya 😋 (sampai sekarang si...). Sambil jadi praktikan, jadi anggota organisasi juga plus jadi Asisten Praktikum yang ga kalah memusingkan yak. Lucunya, yang pada suka ngeluh dan gamau lanjut lagi dua periode di organisasi eh malah lanjut jadi BPH 🫩",
+      images: ["/journey/rieman.jpg", "/journey/mubes.jpg", "/journey/diesnat.jpg", "/journey/sembako.jpg", "/journey/mubes.jpeg", "/journey/panti.jpeg"]
     },
     {
       title: "Daily Life",
-      text: "Lebih banyak pusingnya, membagi hidup antara tugas, project, proker, ngeasisten, sama jadi anggota organisasi dan praktikan yang justru memusingkan dan lebih membingungkan karena ada aja gebrakannya😵",
+      text: "Lebih banyak pusingnya, ngebagi hidup antara tugas, project, proker, ngeasisten, sama jadi anggota organisasi dan praktikan yang justru memusingkan dan lebih membingungkan karena ada aja gebrakannya😵",
       images: ["/journey/prak1.jpg", "/journey/apala.jpg", "/journey/asisten.jpg", "/journey/awal.jpg"]
     },
     {
@@ -46,8 +46,8 @@ export default function Home() {
     },
     {
       title: "Tugas Akhir",
-      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua (lab terbaik), tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat menjalin tali silataruhmi",
-      images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg", , "/journey/diess.jpg", "/journey/sem.jpeg"]
+      text: "Dan our best camp yaitu Lab Matkom kecintaan kami semua (lab terbaik), tempat kami ngerjain praktikum sambil mengerjakan tugas akhir. Atau sekedar buat menjalin tali silataruhmi ajah, kadang-kadang buat mukbang juga",
+      images: [ "/journey/buset.jpg",  "/journey/mbkm.jpeg","/journey/mukbang.jpeg" , "/journey/sem.jpeg"]
     },
     {
       title: "Akhir Perjalanan",
@@ -57,7 +57,7 @@ export default function Home() {
    {
       title: "Sampai disini",
       text: "Semoga kita dapat bertemu dilain waktu yang akan datang dengan setiap journey yang berbeda-beda🤩, I will always pray for u guys🫶",
-         images: ["/journey/prak2.JPG", "/journey/ujian.jpeg", "/journey/batik.jpg", "/journey/kiw.jpg", "/journey/nop.jpg", "/journey/berenang.jpeg"]
+         images: ["/journey/semhas.jpeg", "/journey/meditif.jpeg", "/journey/diess.jpg", "/journey/sekre.jpg", "/journey/sosmas.jpeg", "/journey/pertama.jpeg"]
     }
   ];
 
@@ -95,11 +95,11 @@ export default function Home() {
       },
       {
         name: "Andine",
-        image: "/andin.JPG",
+        image: "/andinee.JPG",
       },
       {
         name: "Rasni",
-        image: "/rasni.png",
+        image: "/rasnii.png",
       },
       {
         name: "Welly",
@@ -132,7 +132,7 @@ export default function Home() {
    const [isPlaying, setIsPlaying] = useState(false);
    const toggleMusic = () => {
     if (!music) {
-      const audio = new Audio("/tulus.mpeg");
+      const audio = new Audio("/music.mpeg");
 
       audio.volume = 0.5;
       audio.loop = true;
