@@ -19,7 +19,7 @@ export default function Home() {
     {
       title: "Plot Twist",
       text: "Ditambah ngejar asisten yang gamau dikejar berujung asisten tersebut kabur dan jatuh ke selokan 👀 (ya maap) mau ke ujung dunia juga dikejar demi kata ACC itu. Tapi yaaa... asik sii dengan praktikum yang dilakukan tapi tidak dengan lapraknya, sepakat yak 👀. Inget banget, Ayu bawa jangkrik yang kakinya hilang satu buat dijadiin bahan praktikum, penyelamat banget Ayu dengan jangkrik itu. Lama banget asisten ngeliatin jangkriknya wkwk",
-      images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg", "/journey/jangkrik.jpg", "/journey/kentang.jpg"]
+      images: ["/journey/momen.JPG", "/journey/lapres.jpg",  "/journey/langit.jpg", "/journey/bawang.jpg", "/journey/jangkrik.jpeg", "/journey/kentang.jpeg"]
     },
     {
       text: "Mungkin kata yang tepat adalah 'Berkesan namun gamau diulang'"
@@ -27,7 +27,7 @@ export default function Home() {
     {
       title: "Perkuliahan",
       text: "Ngerjain tugas, kalo kalkulus suka nanya Rasni ama Welly, kalo Aljabar belajarnya sama Meyta xixi, minta ajarin lagi kalo ga paham (tengkyu so much gengs 🫶). Ngerjain project Simbada juga. Terus dini hari telponan sama Dhita karena tugas pakai VBA excel yang ga selesai-selesai, error mulukkk, dua duanya suka panikan, chaos banget kocak 🤝. Data mining dengan kelompok yang adudu untungnya bareng sama Andin jadi duo gacor, sampe berhasil nerbitin jurnal ahay 😋",
-      images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg", "/journey/kimia.jpeg", "/journey/ACC.jpg"]
+      images: ["/journey/simbada.jpg", "/journey/sakrab.jpg", "/journey/nugas.jpeg", "/journey/sekre.jpg", "/journey/kimia.jpeg", "/journey/ACC.jpeg"]
     },
     {
       title: "Organisasi",
@@ -41,7 +41,7 @@ export default function Home() {
     },
     {
       title: "Banyak hal yang terjadi",
-      text: "Ga cukup sampai di sana. Banyak banget momen yang rasanya sulit untuk dituliskan satu per satu. Belajar H-jam sebelum ujian. Bertanya kesana kemari tentang materi yang bahkan sebenarnya kita masih nebak-nebak 'ini bakalan masuk ga ya di soal ujian?'. Semoga kenangan indah tersimpan di penyimpanan masing-masing aja ya",
+      text: "Ga cukup sampai di sana. Banyak banget momen yang rasanya sulit untuk dituliskan satu per satu. Belajar H-jam sebelum ujian. Bertanya kesana kemari tentang materi yang bahkan sebenarnya kita masih nebak-nebak 'ini bakalan masuk ga ya di soal ujian?'. Semoga kenangan indah kita tersimpan di memori masing-masing aja ya",
       images: [ "/journey/konversi.jpg", "/journey/sekre.jpg", "/journey/kemerdekaan.png", "/journey/comel.jpg"]
     },
     {
