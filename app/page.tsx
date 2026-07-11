@@ -134,7 +134,7 @@ export default function Home() {
     if (!music) {
       const audio = new Audio("/music.mpeg");
 
-      audio.volume = 0.5;
+      audio.volume = 0.8;
       audio.loop = true;
 
       audio.play();
