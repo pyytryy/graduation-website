@@ -64,65 +64,76 @@ export default function Home() {
   const peopleGroups = [
   {
     title: "Family",
-    description: "The people who made all of this possible.",
+    description: "The people who made all of this possible",
     people: [
       {
         name: "Papa",
         image: "/papah.png",
+        description: "The prayer that still guides me, just from a different place"
       },
       {
         name: "Mama",
         image: "/mom.png",
+        description:"The love that made all of this possible"
       }
     ],
   },
 
   {
     title: "My Daily Survival Team",
-    description: "The people who were there for almost everything.",
+    description: "The people who were there for almost everything",
     people: [
       {
         name: "Melati",
         image: "/mey.PNG",
+        description: "The one who always showed up. Thank you for every support, every conversation, and for never making me feel like I had to face everything alone",
       },
       {
         name: "Dhita",
         image: "/dhita.jpg",
+        description: "The one who keep every random laugh, every spontaneous plan, and every memory I'll always treasure"
       },
       {
         name: "Riska",
         image: "/riris.jpg",
+        description: "The one who somehow always came at the right time, become my lifesaver more times than you probably realize"
       },
       {
         name: "Andine",
         image: "/andinee.jpeg",
+        description: "From unexpected conversations to always checking in and lending a hand"
       },
       {
         name: "Rasni",
         image: "/rasnii.jpeg",
+        description: "The quiet one who always believed in me. Sometimes, a simple 'You can do it' was all I needed"
       },
       {
         name: "Welly",
         image: "/welly.jpg",
+        description: "Different paths, yet somehow we kept meeting along the way and sharing so many chapters with me"
       },
     ],
   },
 
   {
     title: "The Ones Who Stayed",
-    description: "Before university happened.",
+    description: "Before university happened",
     people: [
       {
         name: "Nopi",
         image: "/nopi.png",
+        description: "Every trip somehow ended with us getting lost—but also laughing the hardest. Such unforgettable adventure"
       },
       {
         name: "Imah",
         image: "/imah.jpeg",
+        description: "The one who teaching me that it's okay to lean on the people who care. Your kindness made me feel accepted just as I am"
       },
       {
         name: "Amal",
         image: "/amal.jpg",
+        description:"A childhood friend who stayed through the changing seasons of life"
       },
     ],
   },
@@ -501,7 +512,7 @@ export default function Home() {
               text-[#D97093]
             "
           >
-            We Made It.
+            We Made It
           </motion.h2>
         </motion.div>
       </section>
@@ -519,7 +530,7 @@ export default function Home() {
           </motion.h2>
 
           <p className="mt-6 text-center text-xl text-gray-600">
-            Thank you for being part of the story.
+            Thank you for being part of the story
           </p>
 
           <div className="mt-24 space-y-32">
@@ -599,7 +610,7 @@ export default function Home() {
 
           <p className="mt-8 text-2xl text-gray-700">
             Karena perjalanan ini tidak akan terasa lengkap tanpa kalian,
-            aku mengundang kalian untuk merayakan momen ini bersamaku.
+            aku mengundang kalian untuk merayakan momen ini bersamaku
           </p>
 
           <div className="
