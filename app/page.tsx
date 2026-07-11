@@ -95,11 +95,11 @@ export default function Home() {
       },
       {
         name: "Andine",
-        image: "/andinee.JPG",
+        image: "/andinee.jpeg",
       },
       {
         name: "Rasni",
-        image: "/rasnii.png",
+        image: "/rasnii.jpeg",
       },
       {
         name: "Welly",
