@@ -803,7 +803,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="text-5xl font-bold text-[#D97093]"
           >
-            💌 Before You Go...
+            Before You Go...
           </motion.h2>
       
           <p className="mt-6 text-xl text-gray-700">
@@ -857,6 +857,21 @@ export default function Home() {
         </div>
       
       </section>
+
+      <section className="py-32 px-6">
+         <div className="max-w-5xl mx-auto text-center">
+             <motion.h2
+               initial={{ opacity: 0, y: 30 }}
+               whileInView={{ opacity: 1, y: 0 }}
+               viewport={{ once: true }}
+               transition={{ duration: 0.8 }}
+               className="text-5xl font-bold text-[#D97093]"
+             >
+               Before You Go...
+             </motion.h2>
+         </div>
+      </section>
+            
     </main>
   );
 }
