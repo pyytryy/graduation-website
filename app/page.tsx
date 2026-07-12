@@ -706,23 +706,23 @@ export default function Home() {
             {response === "Yes" ? (
               <div className="text-center py-8">
                 <h3 className="text-4xl font-bold text-[#D97093]">
-                  WAHHH MANTAP BANGETT🌸
+                  WAHHH MANTAP BANGETT
                 </h3>
 
                 <p className="mt-4 text-xl text-gray-700">
                   Sampai jumpa di tempat ya!
-                  Terima kasih sudah menjadi bagian dari memori ini💛
+                  Terima kasih sudah menjadi bagian dari memori ini
 
                 </p>
               </div>
             ) : response === "No" ? (
               <div className="text-center py-8">
                 <h3 className="text-4xl font-bold text-[#8BAA88]">
-                  Yahh... Aku bakalan kangen sama kamu 😭
+                  Yahh... Aku bakalan kangen sama kamu
                 </h3>
 
                 <p className="mt-4 text-xl text-gray-700">
-                  Terima kasih ya konfirmasinya, semoga dapat berjumpa di lain waktu💛
+                  Terima kasih ya konfirmasinya, semoga dapat berjumpa di lain waktu
                 </p>
               </div>
             ) : (
