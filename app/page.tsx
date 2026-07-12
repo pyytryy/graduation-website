@@ -981,7 +981,7 @@ export default function Home() {
            </a>
          
            <a
-             href="putripitamutia99@gmail.com"
+             href="mailto:putripitamutia99@gmail.com"
              className="hover:underline transition"
            >
              Email
