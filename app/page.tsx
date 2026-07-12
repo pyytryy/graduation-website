@@ -139,6 +139,12 @@ export default function Home() {
   },
 ];
 
+   const reviews = [
+     "/review1.png",
+     "/review2.png",
+     "/review3.png",
+];
+
    const [music, setMusic] = useState<HTMLAudioElement | null>(null);
    const [isPlaying, setIsPlaying] = useState(false);
    const toggleMusic = () => {
@@ -781,6 +787,71 @@ export default function Home() {
                 )}
           </div>
         </div>
+      </section>
+       
+      <section className="py-32 px-6">
+
+        <div className="max-w-5xl mx-auto text-center">
+          <motion.h2
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+            className="text-5xl font-bold text-[#D97093]"
+          >
+            💌 Before You Go...
+          </motion.h2>
+      
+          <p className="mt-6 text-xl text-gray-700">
+           Lucu banget dapat respon yang sangat warm seperti inii.
+            <br />
+            Terima kasih yaa <3
+          </p>
+      
+          <div className="mt-16 flex flex-col items-center gap-10">
+      
+            {reviews.map((review, index) => (
+      
+              <motion.img
+                key={index}
+                src={review}
+                alt="review"
+                initial={{
+                  opacity: 0,
+                  y: 40,
+                  rotate: index % 2 === 0 ? -2 : 2,
+                }}
+                whileInView={{
+                  opacity: 1,
+                  y: 0,
+                  rotate: index % 2 === 0 ? -2 : 2,
+                }}
+                transition={{
+                  duration: 0.6,
+                  delay: index * 0.15,
+                }}
+                viewport={{ once: true }}
+                className={`
+                  rounded-3xl
+                  shadow-2xl
+                  max-w-md
+                  hover:scale-105
+                  transition-all
+                  duration-300
+                  ${
+                    index % 2 === 0
+                      ? "self-start"
+                      : "self-end"
+                  }
+                `}
+              />
+      
+            ))}
+      
+          </div>
+      
+        </div>
+      
       </section>
     </main>
   );
