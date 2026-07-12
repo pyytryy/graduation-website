@@ -803,9 +803,9 @@ export default function Home() {
           </motion.h2>
       
           <p className="mt-6 text-xl text-gray-700">
-           Lucu banget dapat respon yang sangat warm seperti inii.
+           Lucu banget dapat respon yang sangat warm seperti inii
             <br />
-            Terima kasih yaa <3
+            Terima kasih yaa guys 
           </p>
       
           <div className="mt-16 flex flex-col items-center gap-10">
