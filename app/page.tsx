@@ -123,7 +123,7 @@ export default function Home() {
       {
         name: "Nopi",
         image: "/nopi.png",
-        description: "Every trip somehow ended with us getting lost—but also laughing the hardest. Such unforgettable adventure"
+        description: "Every trip somehow ended with us getting lost but also laughing the hardest. Such unforgettable adventure"
       },
       {
         name: "Imah",
@@ -596,9 +596,15 @@ export default function Home() {
                       />
 
                       <div className="p-6">
-                        <h4 className="text-2xl font-bold text-[#D97093]">
-                          {person.name}
-                        </h4>
+                          <h4
+                            className="
+                              text-2xl
+                              font-bold
+                              text-[#D97093]
+                            "
+                          >
+                            {person.name}
+                          </h4>
                         <p className="
                         mt-3
                         text-gray-600
