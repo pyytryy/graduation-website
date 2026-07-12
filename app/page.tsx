@@ -140,9 +140,13 @@ export default function Home() {
 ];
 
    const reviews = [
-     "/review1.png",
-     "/review2.png",
-     "/review3.png",
+     "/Review1.jpeg",
+     "/Review2.jpeg",
+     "/Review3.jpeg",
+     "/Review4.jpeg",
+     "/Review5.jpeg",
+     "/Review6.jpeg",
+     "/Review7.jpeg"
 ];
 
    const [music, setMusic] = useState<HTMLAudioElement | null>(null);
