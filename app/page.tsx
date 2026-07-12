@@ -177,7 +177,7 @@ export default function Home() {
   const [response, setResponse] = useState("");
     const submitAttendance = async (status: string) => {
     if (!name.trim()) {
-      alert("Isi nama dulu ya 🌸");
+      alert("Isi nama dulu yaaa");
       return;
     }
 
@@ -296,7 +296,7 @@ export default function Home() {
              "
          >
             <img
-              src="/graduation.png"
+              src="/selempang.png"
               alt="Graduation"
               className="
                 h-full
