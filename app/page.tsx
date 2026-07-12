@@ -599,6 +599,15 @@ export default function Home() {
                         <h4 className="text-2xl font-bold text-[#D97093]">
                           {person.name}
                         </h4>
+                        <p className="
+                        mt-3
+                        text-gray-600
+                        text-sm
+                        leading-relaxed
+                        italic
+                        ">
+                        {person.description}
+                        </p>
                       </div>
                     </motion.div>
                   ))}
