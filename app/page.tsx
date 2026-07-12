@@ -898,7 +898,100 @@ export default function Home() {
       
         </div>
       </section>
-            
+
+       {/* Footer */}
+      <footer className="
+         py-16
+         px-6
+         border-t
+         border-white/30
+         mt-20
+         "
+      >
+        <div className="
+           max-w-5xl
+           mx-auto
+           text-center
+           "
+         >
+      
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+            className="text-2xl
+             italic
+             text-gray-600
+             "
+          >
+            Thanks for stopping by
+          </motion.p>
+      
+          <motion.p
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.2, duration: 0.8 }}
+            className="mt-8 text-gray-500"
+          >
+            © 2026 Putri Pita Mutia
+          </motion.p>
+      
+          <motion.p
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.3, duration: 0.8 }}
+            className="
+             mt-2
+             text-gray-500
+             leading-relaxed"
+          >
+            Built with Next.js, Tailwind CSS,
+            <br />
+            Framer Motion, Google Forms
+            <br />
+            & a lot of love (and a little panic before graduation)
+          </motion.p>
+      
+          <div className="
+             mt-8
+             flex
+             justify-center
+             gap-8
+             text-[#D97093]">
+      
+            <a
+             href="https://github.com/pyytryy"
+             target="_blank"
+             rel="noopener noreferrer"
+             className="hover:underline transition"
+           >
+             GitHub
+           </a>
+         
+           <a
+             href="https://www.linkedin.com/in/putri-pita-mutia/"
+             target="_blank"
+             rel="noopener noreferrer"
+             className="hover:underline transition"
+           >
+             LinkedIn
+           </a>
+         
+           <a
+             href="mailto:putripitamutia99@gmail.com"
+             className="hover:underline transition"
+           >
+             Email
+           </a>
+      
+          </div>
+      
+        </div>
+      </footer>
+       
     </main>
   );
 }
