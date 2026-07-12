@@ -118,7 +118,7 @@ export default function Home() {
 
   {
     title: "The Ones Who Stayed",
-    description: "Before university happened",
+    description: " university happened",
     people: [
       {
         name: "Nopi",
@@ -859,17 +859,29 @@ export default function Home() {
       </section>
 
       <section className="py-32 px-6">
-         <div className="max-w-5xl mx-auto text-center">
-             <motion.h2
-               initial={{ opacity: 0, y: 30 }}
-               whileInView={{ opacity: 1, y: 0 }}
-               viewport={{ once: true }}
-               transition={{ duration: 0.8 }}
-               className="text-5xl font-bold text-[#D97093]"
-             >
-               Before You Go...
-             </motion.h2>
-         </div>
+        <div className="max-w-5xl mx-auto text-center">
+      
+          <motion.h2
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+            className="text-5xl font-bold text-[#D97093]"
+          >
+            Until our paths cross again...
+          </motion.h2>
+      
+          <motion.p
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.3, duration: 0.8 }}
+            className="mt-6 text-2xl italic text-gray-600"
+          >
+            May life be kind to every journey you choose
+          </motion.p>
+      
+        </div>
       </section>
             
     </main>
